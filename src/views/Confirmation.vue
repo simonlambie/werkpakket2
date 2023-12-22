@@ -12,7 +12,9 @@
 
 <template>
     <HeaderComponent/>
-
+        <div class="section-p1">
+            <h3>Your order has been confirmed!</h3>
+        </div>
     <FooterComponent/>
 </template>
 
