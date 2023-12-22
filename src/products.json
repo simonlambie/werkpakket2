@@ -1,0 +1,182 @@
+[
+    {
+        "id":1,
+        "title": "Carnegi Navy suit",
+        "description":"The Carnegie Navy Suit: Timeless navy elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f1.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":15
+    },
+    {
+        "id":2,
+        "title": "Herringbone Brown Classic",
+        "description":"Herringbone Brown Classic: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f2.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":16
+    },
+    {
+        "id":3,
+        "title": "Marc Darcy Scott Gray",
+        "description":"Marc Darcy Scott Gray: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f3.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":13
+    },
+    {
+        "id":4,
+        "title": "Dion Blue Herringbone",
+        "description":"Dion Blue Herringbone: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f4.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":17
+    },
+    {
+        "id":5,
+        "title": "Brown Thomas Scott",
+        "description":"Brown Thomas Scott: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f5.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":8
+    },
+    {
+        "id":6,
+        "title": "Astoria Crimson Suit",
+        "description":"Astoria Crimson Suit: Timeless navy elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f1.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":21
+    },
+    {
+        "id":7,
+        "title": "Lexington Emerald Suit",
+        "description":"Lexington Emerald Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f2.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":55
+    },
+    {
+        "id":8,
+        "title": "Harrington Gold Suit",
+        "description":"Harrington Gold Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f3.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":19
+    },
+    {
+        "id":9,
+        "title": "Stratford Sapphire Suit",
+        "description":"Stratford Sapphire Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f4.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":11
+    },
+    {
+        "id":10,
+        "title": "Evergreen Platinum Suit",
+        "description":"Evergreen Platinum Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f5.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":8
+    },
+    {
+        "id":11,
+        "title": "Windsor Rose Suit",
+        "description":"Windsor Rose Suit: Timeless navy elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f1.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":12
+    },
+    {
+        "id":12,
+        "title": "Avalon Onyx Suit",
+        "description":"Avalon Onyx Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f2.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":36
+    },
+    {
+        "id":13,
+        "title": "Belmont Burgundy Suit",
+        "description":"Belmont Burgundy Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f3.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":23
+    },
+    {
+        "id":14,
+        "title": "Regal Azure Suit",
+        "description":"Regal Azure Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f4.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":27
+    },
+    {
+        "id":15,
+        "title": "Sterling Silver Suit",
+        "description":"Sterling Silver Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f5.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":28
+    },
+    {
+        "id":16,
+        "title": "Obsidian Black Suit",
+        "description":"Obsidian Black Suit: Timeless navy elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f1.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":21
+    },
+    {
+        "id":17,
+        "title": "Celestial Teal Suit",
+        "description":"Celestial Teal Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f2.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":35
+    },
+    {
+        "id":18,
+        "title": "Ember Bronze Suit",
+        "description":"Ember Bronze Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f3.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":29
+    },
+    {
+        "id":19,
+        "title": "Aurora Amethyst Suit",
+        "description":"Aurora Amethyst Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f4.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":31
+    },
+    {
+        "id":20,
+        "title": "Ivory Frost Suit",
+        "description":"Ivory Frost Suit: Timeless elegance, tailored for sophistication and style.",
+        "thumbnail": "/src/assets/f5.jpg",
+        "price": 100,
+        "btw":0.21,
+        "stock":36
+    }
+]
